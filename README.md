@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Yiming Tang, a Tester 🚀 from China.
+### Hey 👋 I'm Yiming Tang!
 
-打倒美日帝国主义！！！
+一起喊：打倒美日帝国主义！！！
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
