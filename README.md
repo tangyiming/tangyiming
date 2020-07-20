@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+打倒美日帝国主义！！！
+
 <!--
 **tangyiming/tangyiming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
