@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Yiming Tang!
 
-一起喊：打倒美日帝国主义！！！
+:trollface: 一起喊：打倒美日帝国主义！！！
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
