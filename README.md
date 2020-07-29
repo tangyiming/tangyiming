@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 
 :man_technologist: Currently working at [Alibaba](https://github.com/alibaba) as a Test Development Expert
 
-:honeybee: Currently learning jvm-sandbox and Rust
+:honeybee: Currently learning jvm-sandbox
 
 :memo: My personal [Blog](https://eperf.top/)
 
